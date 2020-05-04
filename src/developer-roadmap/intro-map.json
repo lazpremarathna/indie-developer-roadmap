@@ -1,0 +1,501 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "Label",
+                    "zOrder": "0",
+                    "measuredW": "464",
+                    "measuredH": "40",
+                    "x": "462",
+                    "y": "74",
+                    "properties": {
+                        "bold": "true",
+                        "size": "32",
+                        "text": "Indie Game Developer in 2020",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "TextInput",
+                    "zOrder": "1",
+                    "w": "178",
+                    "measuredW": "135",
+                    "measuredH": "32",
+                    "x": "414",
+                    "y": "341",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Pre-Production"
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Label",
+                    "zOrder": "2",
+                    "measuredW": "91",
+                    "measuredH": "28",
+                    "x": "651",
+                    "y": "190",
+                    "properties": {
+                        "bold": "true",
+                        "size": "20",
+                        "text": "Your path"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "TextInput",
+                    "zOrder": "3",
+                    "w": "288",
+                    "measuredW": "179",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "158",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Git - Version Control"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Label",
+                    "zOrder": "4",
+                    "measuredW": "175",
+                    "measuredH": "25",
+                    "x": "67",
+                    "y": "122",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "Required for any path"
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "TextInput",
+                    "zOrder": "5",
+                    "w": "289",
+                    "measuredW": "192",
+                    "measuredH": "32",
+                    "x": "67",
+                    "y": "197",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Basic Terminal Usage"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Arrow",
+                    "zOrder": "6",
+                    "w": "1",
+                    "h": "47",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "696",
+                    "y": "135",
+                    "properties": {
+                        "color": "6710886",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5,
+                            "y": 0
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Arrow",
+                    "zOrder": "7",
+                    "w": "2",
+                    "h": "71",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "697",
+                    "y": "381",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5621504039776257,
+                            "y": 0.004661280298321849
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "stroke": "dotted",
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "TextInput",
+                    "zOrder": "8",
+                    "w": "288",
+                    "measuredW": "70",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "278",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "GitHub"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "TextInput",
+                    "zOrder": "9",
+                    "w": "288",
+                    "measuredW": "254",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "236",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Data Structures & Algorithms"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "TextInput",
+                    "zOrder": "10",
+                    "w": "288",
+                    "measuredW": "186",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "395",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Communication Skills"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "TextInput",
+                    "zOrder": "11",
+                    "w": "288",
+                    "measuredW": "88",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "317",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Licenses"
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "TextInput",
+                    "zOrder": "12",
+                    "w": "288",
+                    "measuredW": "146",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "356",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Design Patterns"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "__group__",
+                    "zOrder": "13",
+                    "measuredW": "360",
+                    "measuredH": "73",
+                    "w": "360",
+                    "h": "73",
+                    "x": "1040",
+                    "y": "228",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "1",
+                                    "typeID": "Label",
+                                    "zOrder": "0",
+                                    "measuredW": "319",
+                                    "measuredH": "25",
+                                    "x": "41",
+                                    "y": "5",
+                                    "properties": {
+                                        "size": "17",
+                                        "text": "lazpremarathna/indie-developer-roadmap",
+                                        "color": "4273622"
+                                    }
+                                },
+                                {
+                                    "ID": "2",
+                                    "typeID": "Label",
+                                    "zOrder": "1",
+                                    "measuredW": "127",
+                                    "measuredH": "25",
+                                    "x": "40",
+                                    "y": "44",
+                                    "properties": {
+                                        "size": "17",
+                                        "text": "LazPremarathna",
+                                        "color": "4273622"
+                                    }
+                                },
+                                {
+                                    "ID": "5",
+                                    "typeID": "Icon",
+                                    "zOrder": "2",
+                                    "measuredW": "32",
+                                    "measuredH": "32",
+                                    "x": "0",
+                                    "y": "0",
+                                    "properties": {
+                                        "icon": {
+                                            "ID": "github",
+                                            "size": "medium"
+                                        },
+                                        "color": "4273622"
+                                    }
+                                },
+                                {
+                                    "ID": "6",
+                                    "typeID": "Icon",
+                                    "zOrder": "3",
+                                    "measuredW": "32",
+                                    "measuredH": "32",
+                                    "x": "0",
+                                    "y": "41",
+                                    "properties": {
+                                        "icon": {
+                                            "ID": "twitter",
+                                            "size": "medium"
+                                        },
+                                        "color": "4273622"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Arrow",
+                    "zOrder": "14",
+                    "w": "1",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "695",
+                    "y": "227",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5,
+                            "y": 0
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 100
+                        },
+                        "shape": "line"
+                    }
+                },
+                {
+                    "ID": "31",
+                    "typeID": "TextInput",
+                    "zOrder": "15",
+                    "w": "178",
+                    "measuredW": "101",
+                    "measuredH": "32",
+                    "x": "607",
+                    "y": "341",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Production"
+                    }
+                },
+                {
+                    "ID": "33",
+                    "typeID": "TextInput",
+                    "zOrder": "16",
+                    "w": "178",
+                    "measuredW": "144",
+                    "measuredH": "32",
+                    "x": "800",
+                    "y": "341",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Post-Production"
+                    }
+                },
+                {
+                    "ID": "34",
+                    "typeID": "Arrow",
+                    "zOrder": "17",
+                    "w": "135",
+                    "h": "106",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "501",
+                    "y": "217",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 135,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6394102341717259,
+                            "y": -0.24256721595836947
+                        },
+                        "p2": {
+                            "x": 3,
+                            "y": 106
+                        }
+                    }
+                },
+                {
+                    "ID": "35",
+                    "typeID": "Arrow",
+                    "zOrder": "18",
+                    "w": "122",
+                    "h": "116",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "764",
+                    "y": "207",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6035163896501405,
+                            "y": 0.2066768694166637
+                        },
+                        "p2": {
+                            "x": 121,
+                            "y": 116
+                        }
+                    }
+                },
+                {
+                    "ID": "36",
+                    "typeID": "Arrow",
+                    "zOrder": "19",
+                    "w": "2",
+                    "h": "71",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "502",
+                    "y": "381",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5621504039776257,
+                            "y": 0.004661280298321849
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "stroke": "dotted",
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "37",
+                    "typeID": "Arrow",
+                    "zOrder": "20",
+                    "w": "2",
+                    "h": "71",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "888",
+                    "y": "381",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5621504039776257,
+                            "y": 0.004661280298321849
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "stroke": "dotted",
+                        "rightArrow": "false"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "New Wireframe 1",
+            "order": 1631332.9884772196
+        },
+        "resourceID": "0996E742-3F76-4D0B-BFD0-63A8E9F49CC4",
+        "mockupH": "378",
+        "mockupW": "1333",
+        "measuredW": "1400",
+        "measuredH": "452",
+        "version": "1.0"
+    }
+}
